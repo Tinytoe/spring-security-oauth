@@ -1,4 +1,4 @@
-package com.baeldung.auth.config;
+package com.nsrp.barcode.auth.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

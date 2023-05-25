@@ -1,4 +1,4 @@
-package com.baeldung.auth.config;
+package com.nsrp.barcode.auth.config;
 
 import org.jboss.resteasy.core.ResteasyContext;
 import org.jboss.resteasy.spi.Dispatcher;

@@ -1,4 +1,4 @@
-package com.baeldung.auth.config;
+package com.nsrp.barcode.auth.config;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
